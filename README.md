@@ -92,6 +92,7 @@ a full discussion of these results.
   regression target (predicted G3 score) for finer-grained interventions.
 - Deploy the model behind a simple web dashboard for lecturers/advisers.
 
-## Author
+## Author: RASHID OTIENO OBUNGU; SOTIOB2511
+
 
 Data Mining course project — [add your name / student ID here]
