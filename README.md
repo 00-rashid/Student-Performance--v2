@@ -94,5 +94,3 @@ a full discussion of these results.
 
 ## Author: RASHID OTIENO OBUNGU; SOTIOB2511
 
-
-Data Mining course project — [add your name / student ID here]
